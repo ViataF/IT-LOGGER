@@ -1,18 +1,11 @@
 {
   "logs": [
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 02",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-06-24T14:04:26.999Z"
-    },
-    {
       "id": 3,
       "message": "1122 wireless down",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-06-24T14:05:22.078Z"
+      "tech": "Sara Wilson ",
+      "date": "2020-06-24T21:16:02.479Z"
     },
     {
       "message": "Changed network card on server 007",
@@ -24,11 +17,6 @@
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
       "id": 2,
       "firstName": "Sam",
       "lastName": "Smith"
@@ -37,16 +25,6 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
-    },
-    {
-      "firstName": "Greg",
-      "lastName": "Harris",
-      "id": 4
-    },
-    {
-      "firstName": "Jill",
-      "lastName": "Smith",
-      "id": 5
     }
   ]
 }

@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Changed network card on server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-06-24T13:04:42.331Z",
-      "id": 1
-    },
-    {
       "message": "Hard drive failed in workstation 02",
       "attention": true,
       "tech": "Sara Wilson",
@@ -20,6 +13,13 @@
       "tech": "John Doe",
       "date": "2020-06-24T13:06:22.748Z",
       "id": 3
+    },
+    {
+      "message": "Changed network card on server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-24T13:29:46.533Z",
+      "id": 4
     }
   ],
   "techs": [

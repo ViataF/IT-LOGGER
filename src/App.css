@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2020/04/25/12/14/tech-5090539_1280.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-color: #464646;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(Inversionz.ttf);
+}
+
+h4.center {
+  font-family: myFirstFont;
+  font-size: 3em;
+}
+
+li.collection-item:hover {
+  background-color: blue;
+}
